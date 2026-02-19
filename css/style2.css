@@ -35,3 +35,10 @@ a {
 a:hover {
     color: #F28729;
 }
+
+#destaque2 {
+    color: #96340D;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+    font-weight: 200;
+}
