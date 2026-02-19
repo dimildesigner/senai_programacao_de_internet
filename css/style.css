@@ -1,20 +1,33 @@
 body {
-    background-color: #faecd8;
+    background-color: #f8e7df;
     color: rgb(70, 67, 67);
 }
 
 h1 {
-    color: rgb(133, 98, 33);
+    color: #A6511F;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 60px;
+    font-weight: 600;
+    text-shadow: 1.6px 1.6px 4px #753c1a;
 }
 
 h3 {
-    color: rgb(151, 104, 18);
+    color: #A65729;
 }
 
 h4 {
-    color: rgb(126, 76, 47);
+    color: #8C2A2A;
 }
 
 p {
-    color: gray;
+    color: #363636;
+}
+
+a {
+    text-decoration: none;
+    color: #A65729;
+}
+
+a:hover {
+    color: #F28729;
 }
