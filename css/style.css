@@ -1,9 +1,10 @@
 body {
-    background-color: #f7e4c9;
+    background-color: #faecd8;
+    color: rgb(70, 67, 67);
 }
 
 h1 {
-    color: rgb(212, 147, 25);
+    color: rgb(133, 98, 33);
 }
 
 h3 {
@@ -12,4 +13,8 @@ h3 {
 
 h4 {
     color: rgb(126, 76, 47);
+}
+
+p {
+    color: gray;
 }
